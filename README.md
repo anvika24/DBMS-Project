@@ -1,4 +1,6 @@
-Creating a Geographic Information System (GIS) Analysis: This project involves analyzing geographic data such as maps and spatial data. we have a database that supports spatial data types, like PostgreSQL (PostGIS).
+Creating a Geographic Information System (GIS) Analysis: 
+This project involves analyzing geographic data such as maps and spatial data. 
+we have a database that supports spatial data types, like PostgreSQL (PostGIS).
 
 1. Retrieve Locations of specific features
 
